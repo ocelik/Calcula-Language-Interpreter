@@ -18,6 +18,8 @@ Output: Output |output_list|;
 
 **Calcula is not case sensitive. 
 
+----
+
 Example of Calcula program:
 
   A:=-2; Bee:=5;

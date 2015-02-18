@@ -12,6 +12,7 @@ Code is composed of two kinds of lines:
 
 Assignment: 
     <identifier> := <expression>;
+    
 Output: 
     Output <output_list>;
 

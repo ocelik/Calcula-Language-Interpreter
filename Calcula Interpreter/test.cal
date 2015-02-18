@@ -1,0 +1,4 @@
+A:=3;
+B:=5;
+C:=A+B;
+Output A " and" B "added gives:" C;

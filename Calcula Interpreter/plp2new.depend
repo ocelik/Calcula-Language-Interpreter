@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1402670767 source:c:\users\user\desktop\plp2new\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<locale.h>
+	<stdbool.h>
+
+1402667167 source:c:\users\user\desktop\calcula interpreter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<locale.h>
+	<stdbool.h>
+
